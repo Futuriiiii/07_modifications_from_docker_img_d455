@@ -17,9 +17,9 @@ From: ctumrs/mrs_uav_system_ls_modules:latest
         
     cd ../opt/
     
-    git clone https://github.com/Futuriiiii/x500_d455.git
+    git clone https://github.com/LASER-Robotics/laser_realsense_d455.git
     
-    cd x500_d455/scripts/singularity/
+    cd laser_realsense_d455/scripts/singularity/
     
     ./install.sh
 
